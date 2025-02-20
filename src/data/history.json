@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Student",
+      "organisation": "CodeBegun",
+      "startDate": "Nov 2023",
+      "endDate": "May2024",
+      "experiences": ["Buliding Static Pages", "Creating RestFull Api Using SpringBoot"],
+      "imageSrc": "/assets/history/codeBegun.png"
+    }
+]

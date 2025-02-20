@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Random Number Guessing Game",
+      "imageSrc": "/assets/project/project.png",
+      "description": "This is a project made to Guessing the random number with our engaging web-based game created using CSS, HTML, and JavaScript! Utilizing the power of DOM manipulation, players are immersed in an interactive environment where they must guess the mystery number within a specified range.",
+      "skills": ["Javascript", "HTML", "CSS"]
+      
+    },
+    {
+      "title": "Natours Project",
+      "imageSrc": "/assets/project/project.png",
+      "description": "The application is designed for booking and managing tickets for tours .Authenticated users can view all the details of available tours.primary responsibility in the project is the development of the frontend components and user interface for the tour booking and management applicationUtilized HTML, CSS, and JavaScript to create interactive and responsive user interfaces",
+      "skills": ["SpringBoot", "Javascript", "HTML", "CSS"]
+     
+    },
+    {
+      "title": "Multivendor",
+      "imageSrc": "/assets/project/project.png",
+      "description": "This is a project about robust seller-side module within a multi-domain e-commerce platform. Leveraging my expertise in JavaScript, APIs, HTML, Bootstrap And CSS, I architected and implemented key features empowering sellers to efficiently manage their products and transactions across multiple domains",
+      "skills": ["React", "SpringBoot", "MySQL"]
+    }
+  ]
